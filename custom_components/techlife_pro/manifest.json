@@ -1,0 +1,16 @@
+{
+    "domain": "techlife_pro",
+    "name": "TechLife Pro",
+    "codeowners": [
+        "@benladamm"
+    ],
+    "config_flow": true,
+    "dependencies": [
+        "mqtt"
+    ],
+    "documentation": "https://github.com/benladamm/hacs-techlife-pro",
+    "iot_class": "local_push",
+    "issue_tracker": "https://github.com/benladamm/hacs-techlife-pro/issues",
+    "requirements": [],
+    "version": "0.1.1"
+}
